@@ -1,0 +1,9 @@
+
+> spotifycover-downloader@0.1.0 dev
+> node server.mjs
+
+Server running on http://localhost:3001
+[cover] type=album id=0abmA18RFSDifEv79a7n5t sizes=[640x640]
+[cover] type=album id=0abmA18RFSDifEv79a7n5t sizes=[640x640]
+[cover] type=album id=0abmA18RFSDifEv79a7n5t sizes=[640x640]
+[cover] type=album id=3n3AG8v4YtT6aHeD39l5Td sizes=[640x640]

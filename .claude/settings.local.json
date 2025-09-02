@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.spotifycover.art)",
+      "WebSearch",
+      "WebFetch(domain:embed.spotify.com)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
